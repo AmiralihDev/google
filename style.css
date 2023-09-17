@@ -1,1 +1,103 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    position: absolute;
+    right: 15px;
+    top: 15px;;
+}
+.headera1{
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+    margin-right: 8px;
+}
+.img{
+    margin-left: 118px;
+    
+}
+#headera2{
+    text-decoration: none;
+    color: white;
+    padding: 12px 25px;
+    background-color: blue;
+    border-radius: 4px;
+}
+svg{
+    width: 25px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+.main img{
+    
+    
+}
+.main {
+    margin:155px auto;
+    width: 500px;
+}
+form input {
+    width: 450px;
+    position: absolute;
+    border:none;
+    outline: none;
+    right: 50px;
+    height: 32px;
+    top:2px;
+}
+form{
+    border: 1px solid gray;
+    width: 550px;
+    height: 40px;
+    position: relative;
+    border-radius: 50px;
+}
+.sv1{
+    position: absolute;
+    left: 10px;
+    top: 6px;
+}
+form *{
+    vertical-align: middle;
+}
+.sv2{
+    position: absolute;
+    right: 5px;
+    top: 5px;
 
+}
+.main a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: gray;
+    padding: 10px 14px;
+    border-radius: 5px;
+    display: inline-block;
+   margin-top:25px ;
+   margin-left:10px ;
+}
+.btn{
+    justify-content: center;
+    display: flex;
+}
+.footer-right{
+    display: inline-block;
+    float: right;
+    margin-right: 15px;
+   
+   
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+
+}
+.footer{
+    margin-top: 350px;
+}
+
+.footer-left{
+    display: inline-block;
+    margin-left: 10px;
+}
